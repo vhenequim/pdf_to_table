@@ -1,0 +1,28 @@
+Estágio 1,Saldo inicial em 01/01/2022,Transferência para Estágio 2,Transferência para Estágio 3,Transferência do Estágio 2,Transferência do Estágio 3,Contratos finalizados,Baixas para prejuízo,Originação / (Recebimento),Ending balance at 31/12/2022
+Cartão de crédito,4.335.868,(49.584),(933),1.479,,(1.037.570),,2.644.732,5.893.995
+Imobiliário,4.782.311,(121.381),(61.009),83.149,15.438,(697.843),(554),1.842.955,5.843.066
+Pessoal,3.375.417,(90.452),(84.468),6.801,836,(360.885),(2.960),2.097.055,4.941.344
+Empresas,2.962.935,(909),(6.099),2.118,5.227,(2.098.349),(802),2.514.861,3.378.982
+Rural,700.191,,(1.535),,,(589.045),,608.504,718.115
+Total,16.156.722,262.326),(154.044),93.547,21.504,4.783.692),(4.316),9.708.107,20.775.502
+Estágio 2,Saldo inicial em 01/01/2022,Transferência para Estágio,Transferência para Estágio 3,Transferência do Estágio,Transferência do Estágio 3,Contratos finalizados,Baixas para prejuízo,Originação (Recebimento),Ending balance at 31/12/2022
+Cartão de crédito,90.647,(1.479),(1.323),49.584,25,(65.998),(20.321),284.287,335.422
+Imobiliário,224.817,(83.149),(28.657),121.381,12.376,(38.157),(567),72.589,280.633
+Pessoal,86.023,(6.801),(31.142),90.452,548,(25.423),(3.538),180.391,290.510
+Empresas,,(2.118),(2.634),909,10.006,(133),(35),(442),10.476
+Rural,,,,,,,,,
+Total,406.410,(93.547),(63.756),262.326,22.955,(129.711),(24.461),536.825,917.041
+Estágio 3,Saldo inicial em 01/01/2022,Transferência para Estágio,Transferência para Estágio 2,Transferência do Estágio 1,Transferência do Estágio 2,Contratos finalizados,Baixas para prejuízo,Originação (Recebimento),Ending balance at 31/12/2022
+Cartão de crédito,371.803,(3),(25),933,1.323,(321.232),(50.179),638.527,641.147
+Imobiliário,114.283,(15.438),(12.376),61.009,28.657,(54.798),(12.367),19.143,128.113
+Pessoal,117.843,(836),(548),84.468,31.142,(29.061),(59.232),88.153,231.929
+Empresas,49.301,(5.227),(10.006),6.099,2.634,(27.934),(6.110),(5.715),3.042
+Rural,,,,1.535,,,,19,1.554
+Total,653.230,(21.504),(22.955),154.044,63.756,(433.025),(127.888),740.127,
+Consolidado,,,,,Saldo inicial em 01/01/2022,Contratos finalizados,Baixas para prejuízo,Originação (Recebimento),Ending balance at 31/12/2022
+Cartão de crédito,,,,,4.798.318,(1.424.800),(70.500),3.567.546,6.870.564
+Imobiliário,,,,,5.121.411,(790.798),(13.488),1.934.687,6.251.812
+Pessoal,,,,,3.579.283,(415.369),(65.730),2.365.599,5.463.783
+Empresas,,,,,3.017.159,(2.126.416),(6.947),2.508.704,3.392.500
+Rural,,,,,700.191,(589.045),,608.523,719.669
+Total,,,,,17.216.362,(5.346.428),(156.665),10.985.059,22.698.328

@@ -1,0 +1,28 @@
+Estágio 1,Saldo inicial em 01/01/2025,Transferência para estágio 2,Transferência para estágio 3,Transferência do estágio 2,Transferência do estágio 3,Contratos finalizados,Baixas para prejuízo,Originação / (recebimento),Saldo final em 31/03/2025,Saldo final em 31/12/2024
+Cartão de crédito,10.330.639,(774.261),(987),98.380,,(821.328),,1.368.205,10.200.648,10.330.639
+Imobiliário,10.196.928,(704.546),(7.467),521.355,1.016,(241.489),,1.319.566,11.085.363,
+Pessoal,7.389.879,(179.819),036) (18.,140.656,75.012,(475.871),,1.210.794,8.142.615,7.389.879
+Empresas,3.887.678,(73.606),(2.459),22.223,,(1.689.388),,1.493.834,3.638.282,3.887.678
+Rural,340.834,(3.748),(743),,,(78.239),,22.867,280.971,340.834
+Total,32.145.958,(1.735.980),(29.692),782.614,76.028,(3.306.315),,5.415.266,33.347.879,32.145.958
+Estágio 2,Saldo inicial em 01/01/2025,Transferência para estágio,Transferência para estágio 3,Transferência do estágio,Transferência do estágio 3,Contratos finalizados,Baixas para prejuízo,Originação / (recebimento),Saldo final em 31/03/2025,Saldo final em 31/12/2024
+Cartão de crédito,281.503,(98.380),(365.417),774.261,562,(387.792),,710.440,915.177,281.503
+Imobiliário,835.131,,(243.475),704.546,12.252,(51.588),,(7.362),728.149,835.131
+Pessoal,257.816,(140.656),(87.926),179.819,17.728,(44.950),,(19.030),162.801,257.816
+Empresas,44.090,(22.223),(38.256),73.606,22,(3.704),,(2.797),50.738,44.090
+Rural,,,(3.748),3.748,,,,,,
+Total,1.418.540,(782.614),(738.822),1.735.980,30.564,(488.034),,681.251,1.856.865,1.418.540
+Estágio 3,Saldo inicial em 01/01/2025,Transferência para estágio,Transferência para estágio 2,Transferência do estágio,Transferência do estágio 2,Contratos finalizados,Baixas para prejuízo,Originação / (recebimento),Saldo final em 31/03/2025,Saldo final em 31/12/2024
+Cartão de crédito,1.187.748,,(562),987,365.417,(103.125),(332.242),17.872,1.136.095,1.187.748
+Imobiliário,218.128,(1.016),(12.252),7.467,243.475,(63.013),,(5.914),386.875,218.128
+Pessoal,589.096,(75.012),(17.728),18.036,87.926,(96.054),(94.605),192.517,604.176,589.096
+Empresas,36.823,,(22),2.459,38.256,(165),(5.956),(12.452),58.943,36.823
+Rural,,,,743,3.748,,,,4.491,
+Total,2.031.795,(76.028),(30.564),29.692,738.822,(262.357),(432.803),192.023,2.190.580,2.031.795
+Consolidado,,,,,Saldo inicial em 01/01/2025,Contratos finalizados,Baixas para prejuízo,Originação / (recebimento),Saldo final em 31/03/2025,Saldo final em
+Cartão de crédito,,,,,11.799.890,,(332.242),2.096.517,12.251.920,31/12/2024 11.799.890
+Imobiliário,,,,,11.250.187,(1.312.245) (356.090),,1.306.290,12.200.387,11.250.187
+Pessoal,,,,,8.236.791,(616.875),(94.605),1.384.281,8.909.592,8.236.791
+Empresas,,,,,3.968.591,(1.693.257),(5.956),1.478.585,3.747.963,3.968.591
+Rural,,,,,340.834,(78.239),,22.867,285.462,340.834
+Total,,,,,35.596.293,(4.056.706),(432.803),6.288.540,37.395.324,35.596.293

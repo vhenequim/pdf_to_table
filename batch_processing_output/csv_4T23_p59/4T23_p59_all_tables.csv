@@ -1,0 +1,28 @@
+Estágio 1,Saldo inicial em 01/01/2022,Transferência para Estágio 2,Transferência para Estágio 3,Transferência do Estágio 2,Transferência do Estágio 3,Baixas para prejuízo,Constituição / (Reversão),Ending balance at 12/31/2022
+Cartão de crédito,202.481,(2.825),89),852,2,,96.488,296.909
+Imobiliário,49.569,(3.161),(1.737),4.258,2.305,(6),15.256,66.484
+Pessoal,57.344,(2.737),(3.110),924,396,(1.023),46.722,98.516
+Empresas,12.587,(4),(288),41,559,,(719),12.099
+Rural,25.676,,(56),,,,(14.014),11.606
+Total,347.657,(8.727),5.280),6.075,3.262,1.106),143.733,485.614
+Estágio 2,Saldo inicial em 01/01/2022,Transferência para Estágio,Transferência para Estágio 3,Transferência do Estágio,Transferência do Estágio 3,Baixas para prejuízo,Constituição (Reversão),Ending balance at 12/31/2022
+Cartão de crédito,29.101,(852),(383),2.825,12,(4.974),148.737,
+Imobiliário,13.361,(4.258),(1.876),3.161,1.848,(36),4.739,16.939
+Pessoal,11.094,(924),(3.324),2.737,314,(1.067),81.258,90.088
+Empresas,324,(41),(282),,1.070,,(176),899
+Rural,,,,,,,,
+Total,53.880,(6.075),(5.865),8.727,3.244,(6.077),234.558,282.392
+Estágio 3,Saldo inicial em 01/01/2022,Transferência para Estágio,Transferência para Estágio 2,Transferência do Estágio,Transferência do Estágio 2,Baixas para prejuízo,Constituição (Reversão),Ending balance at 12/31/2022
+Cartão de crédito,186.157,(2),(12),89,383,(25.348),241.559,402.826
+Imobiliário,17.062,(2.305),(1.848),1.737,1.876,(1.846),4.451,19.127
+Pessoal,73.065,(396),(314),3.110,3.324,(47.568),95.928,127.149
+Empresas,3.110,(559),(1.070),288,282,(654),(1.069),328
+Rural,,,,56,,,920,976
+Total,279.394,(3.262),(3.244),5.280,5.865,(75.416),341.789,550.406
+Consolidado,,,,,Saldo inicial em 01/01/2022,Baixas para prejuízo,Constituição (Reversão),Ending balance at 12/31/2022
+Cartão de crédito,,,,,417.739,(30.322),486.784,874.201
+Imobiliário,,,,,79.992,(1.888),24.446,102.550
+Pessoal,,,,,141.503,(49.658),223.908,315.753
+Empresas,,,,,16.021,(731),(1.964),13.326
+Rural,,,,,25.676,,(13.094),12.582
+Total,,,,,680.931,(82.599),720.080,1.318.412

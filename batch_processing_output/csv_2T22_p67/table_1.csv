@@ -1,0 +1,28 @@
+Unnamed: 0,Estágio,Saldo inicial em 01/01/2021,Transferência Transferência para Estágio 2 para Estágio 3,Transferência do_Estágio2,Transferência do_Estágio 3,Contratos finalizados,Baixas para prejuízo,Constituição / (Reversão),Saldo final em 30/06/2021
+Imobiliário,34.898,(4.269),(1.084),3.698,2.118,(3.816),,6.908,38.453
+Pessoal,17.285,(829),(569),133,100,(5.766),,31.632,41.986
+Empresas,5.678,(65),(4),,,(187),,5.150,10.572
+Cartão de crédito,106.606,(2.059),(6.985),424,285,(16.045),(60),47.086,126.550
+Rural,5.675,,,,,(264),,9.735,15.146
+Total,170.142,(7.222),(8.642),4.255,2.503,(26.078),,,232.707
+Estágio 2,Saldo inicial em 01/01/2021,Transferência,Transferência para Estágio3,Transferência,Transferência do_Estágio3,Contratos finalizados,Baixas para prejuízo,Constituição / (Reversão),Saldo final em 30/06/2021
+Imobiliário,10.848,3.698),(1.767),4.269,1.235,(1.442),,4.238,13.683
+Pessoal,4.397,(133),(1.833),829,86,(953),,5.923,8.316
+Empresas,4,,,65,,(3),,252,317
+Cartão de crédito,4.946,(424),(2.444),2.059,67,(2.015),,50.129,52.255
+Rural,,,,,,,,,
+Total,20.195,(4.255),(6045),7.222,1.388,(4.413),,60.542,74.571
+Estágio 3,Saldo inicial em 01/01/2021,Transferência,Transferência para Estágio 2,Transferência doEstágio ],Transferência do Estágio 2,Contratos finalizados,Baixas para prejuízo,Constituição 7 (Reversão),Saldo final em 30/06/2021
+Imobiliário,75.128,(2.718),(1.235),1.084,1.767,(4.600),2.455),6.969,14.540
+Pessoal,18.317,(100),(86),569,1.833,(1.555),(8.960),42.088,52.106
+Empresas,241,,,,,,(173),71,144
+Cartão de crédito,58.331,(285),(67),6.985,2.444,(34.272),,82.905,107.762
+Rural,,,,,,,,,
+Total,,,(7388),8.642,6.045,(40.427),(17.699),132.033,774.552
+Consolidado,,,,,Saldo em 01/01/2021,Contratos finalizados,Baixas para prejuízo,Constituição7 (Reversão),30/06/2021
+Imobiliário,,,,,60.874,(9.858),(2.455),18.115,66.676
+Pessoal,,,,,39.999,(8.274),(8.960),79.643,102.408
+Empresas,,,,,5.923,(190),(173),5.473,11.033
+Cartão de crédito,,,,,169.883,(52.332),(6.171),180.120,291.500
+Rural,,,,,5.675,(264),,9.735,15.146
+Total,,,,,282.354,(70.918),(17.759),293.086,486.763

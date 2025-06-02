@@ -1,0 +1,31 @@
+Estágio 1,Saldo inicial em 01/01/2023,Transferência para estágio 2,Transferência para estágio 3,Transferência do estágio 2,Transferência do estágio 3,Constituiçãol (reversão),Saldo final em 30/06/2023,Saldo final em 31/12/2022
+Cartão de crédito,296.909,(154.591),(52),16.402,53.0,194.237,352.958,296.909
+Empresas,12.099,(739),,125.0,,(74),11.411,12.099
+Imobiliário,66.484,(36.513),(50),20.03,7.554,(17.970),39.535,66.484
+Pessoal,98.516,(23.663),,1.572,863.0,(2.927),74.361,98.516
+Rural,11.606,,,,,(629),10.97,11.606
+,485.614,(215.513),(102),38.129,8.47,172.637,489.235,485.614
+
+Estágio 2,Saldo inicial em 01/01/2023,Transferência para estágio,Transferência para estágio 3,Transferência do estágio,Transferência do estágio 3,Constituiçãol (reversão),Saldo final em 30/06/2023,Saldo final em 31/12/2022
+Cartão de crédito,174.466,(16.402),(422.761),154.591,,304.987,194.881,174.466
+Empresas,899.0,(125),(1.137),739.0,27.0,696.0,1.099,899.0
+Imobiliário,16.939,(20.030),(27.818),36.513,8.501,17.282,31.387,16.939
+Pessoal,90.088,(1.572),(83.636),23.663,1.037,87.615,117.195,90.088
+Rural,,,,,,,,
+,282.392,(38.129),(535.352),215.513,9.565,410.573,344.562,282.392
+
+Estágio 3,Saldo inicial em 01/01/2023,Transferência para estágio 1,Transferência para estágio 2,Transferência do estágio 1,Transferência do estágio 2,Baixas para prejuízo,Constituiçãol (reversão),Saldo final em 30/06/2023,Saldo final em 31/12/2022
+Cartão de crédito,402.826,(53),,52.0,422.761,(418.736),126.51,533.36,402.826
+Empresas,328.0,,(27),,1.137,(1.942),2.338,1.834,328.0
+Imobiliário,19.127,(7.554),(8.501),50.0,27.818,(7.856),23.216,46.3,19.127
+Pessoal,127.149,(863),(1.037),,83.636,(50.742),43.967,202.11,127.149
+Rural,976.0,,,,,(1.554),578.0,,976.0
+,550.406,(8.470),(9.565),102.0,535.352,(480.830),196.609,783.604,550.406
+
+Consolidado,Saldo inicial em 01/01/2023,Baixas para prejuízo,Constituiçãol (reversão),Saldo final em 30/06/2023,Saldo final em 31/12/2022
+Cartão de crédito,874.201,(418.736),625.734,1.081.199,874.201
+Empresas,13.326,(1.942),2.960,14.344,13.326
+Imobiliário,,(7.856),22.528,117.222,102.550
+Pessoal,315.753,(50.742),128.655,393.666,315.753
+Rural,12.582,(1.554),(58),10.970,12.582
+,1.318.412,(480.830),779.819,1.617.401,1.318.412

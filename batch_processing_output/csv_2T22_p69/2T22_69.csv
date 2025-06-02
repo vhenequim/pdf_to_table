@@ -1,0 +1,28 @@
+Estágio 1,Saldo inicial em 01/01/2021,Transferência para Estágio 2,Transferência para Estágio 3,Transferência do Estágio 2,Transferência do Estágio 3,Contratos finalizados,Baixas para prejuízo,Originação / (Recebimento),Saldo final em 30/06/2021
+Imobiliário,3.186.943,(744.382),(34.378),62.393,13.907,(354.702),,1.752.468,3.882.249
+Pessoal,1.509.554,(39.785),(32.022),815,243,(585.192),(19),1.560.315,2.413.909
+Empresas,1.579.384,(3.000),(488),,,(872.299),,1.445.628,2.149.225
+Cartão de crédito,1.837.984,(23.441),(67.518),1.262,566,(175.786),(660),1.296.816,2.809.477
+Rural,177.637,,,,,(8.251),,255.185,424.571
+Total,8.291.502,(210.608),(134.406),64.470,14.716,(1.996.230),(679),5.710.412,71.679.431
+Estágio 2,Saldo inicial em 01/01/2021,Transferência para Estágio 1,Transferência para Estágio 3,Transferência do Estágio 1,Transferência do Estágio 3,Contratos finalizados,Baixas para prejuízo,Originação / (Recebimento),Saldo final em 30/06/2021
+Imobiliário,185.081,(62.393),(29.968),144.382,8.110,(24.358),,10.688,231.542
+Pessoal,32.258,(815),(14.257),39.785,229,(7.289),,4.263,54.174
+Empresas,1.298,,(61),3.000,,(1.235),,355,3.357
+Cartão de crédito,20.461,(1.262),(10.688),23.441,123,(8.321),,68.691,91.617
+Rural,,,,,,,,,
+Total,239.098,(64.470),(54.974),210.608,8.462,(41.203),,83.997,380.690
+Estágio 3,Saldo inicial em 01/01/2021,Transferência para Estágio 1,Transferência para Estágio 2,Transferência do Estágio 1,Transferência do Estágio 2,Contratos finalizados,Baixas para prejuízo,Originação / (Recebimento),Saldo final em 30/06/2021
+Imobiliário,99.332,(13.907),(8.110),34.378,29.968,30.206),,2.050,97.382
+Pessoal,,(243),(229),32.022,14.257,(3.314),(21.468),24.822,89.856
+Empresas,2.187,,,488,61,,(1.558),165,1.343
+Cartão de crédito,113.929,(566),(123),67.518,10.688,(68.522),(10.676),105.722,215.640
+Rural,,,,,,,,,
+Total,259.457,(14.716),(8.462),134.406,54.974,,(49.825),132.759,404.221
+Consolidado,,,,,Saldo em 01/01/2021,Contratos finalizados,Baixas para prejuízo,Originação / (Recebimento),Saldo final em 30/06/2021
+Imobiliário,,,,,3.471.356,(409.266),(16.123),1.765.206,4.211.173
+Pessoal,,,,,1.585.821,(595.795),(21.487),1.589.400,2.557.939
+Empresas,,,,,1.582.869,(873.534),(1.558),1.446.148,2.153.925
+Cartão de crédito,,,,,1.972.374,(252.629),(11.336),1.471.229,3.179.638
+Rural,,,,,177.637,(8.251),,255.185,424.571
+Total,,,,,8.790.057,(2.139.475),(50.504),5.927.168,12.527.246
